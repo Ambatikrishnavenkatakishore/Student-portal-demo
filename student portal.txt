@@ -1,0 +1,5 @@
+Name         : A.K.V.Kishore
+SUC          : 2358250109
+HALLTICKET NO: 230377401008
+COURSE       : BCA
+College      : Aditya Degree College.
